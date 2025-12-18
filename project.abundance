@@ -27,8 +27,7 @@
     },
     {
       "name": "BitDiameter",
-      "ioValue": 6.4,
-      "currentEquation": "6.4"
+      "ioValue": 6.4
     }
   ],
   "topLevel": true,
@@ -426,7 +425,7 @@
     {
       "atomType": "Input",
       "x": 0.01815,
-      "y": 0.24942263279445726,
+      "y": 0.242,
       "uniqueID": "id-7688",
       "name": "TabletopWidth",
       "type": "number"
@@ -434,7 +433,7 @@
     {
       "atomType": "Input",
       "x": 0.01815,
-      "y": 0.32101616628175517,
+      "y": 0.308,
       "uniqueID": "id-7690",
       "name": "TabletopLength",
       "type": "number"
@@ -442,7 +441,7 @@
     {
       "atomType": "Input",
       "x": 0.01815,
-      "y": 0.394919168591224,
+      "y": 0.374,
       "uniqueID": "id-7693",
       "name": "BoltDiameter",
       "type": "number"
@@ -450,7 +449,7 @@
     {
       "atomType": "Input",
       "x": 0.01815,
-      "y": 0.4665127020785219,
+      "y": 0.44,
       "uniqueID": "id-7696",
       "name": "BitDiameter",
       "type": "number"
